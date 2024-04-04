@@ -7,7 +7,7 @@ library(tidyverse)
 library(troopdata)
 library(usethis)
 
-file_path <- "~/Documents/Shiny/Auschwitzdeaths.csv"
+file_path <- "Auschwitzdeaths.csv"
 
 data <- read.csv(file_path)
 
