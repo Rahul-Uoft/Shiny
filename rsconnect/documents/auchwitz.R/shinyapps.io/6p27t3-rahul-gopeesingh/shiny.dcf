@@ -5,9 +5,9 @@ account: 6p27t3-rahul-gopeesingh
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11663225
-bundleId: 8452541
+bundleId: 8452631
 url: https://6p27t3-rahul-gopeesingh.shinyapps.io/shiny/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: Auschwitzdeaths.csv|paper/datasheet_template.pdf|paper/datasheet_template.qmd|paper/paper.pdf|paper/paper.qmd|paper/references.bib|README.md
+ignoredFiles: .RData|paper/datasheet_template.pdf|paper/datasheet_template.qmd|paper/paper.pdf|paper/paper.qmd|paper/references.bib|README.md
